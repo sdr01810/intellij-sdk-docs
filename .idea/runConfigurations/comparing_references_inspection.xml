@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="comparing_references_inspection" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
     <module name="comparing_references_inspection" />
@@ -7,3 +8,4 @@
     <method />
   </configuration>
 </component>
+
