@@ -2,7 +2,7 @@
 
 Here is a brief set of instructions for setting up your IntelliJ IDEA installation to build the
 [intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) project, and run the demos.
-We will build on the instructions in the IntelliJ Platform SDK docs that describe
+They build on the instructions in the IntelliJ Platform SDK docs that describe
 [how to checkout and build](www.jetbrains.org/intellij/sdk/docs/basics/checkout_and_build_community.html)
 the [IntelliJ IDEA CE](https://github.com/JetBrains/intellij-community) project.
 
@@ -14,9 +14,9 @@ These instructions have been tested against the following versions of IntelliJ I
 ## Initial conditions
 
 We will assume that you have already installed either IntelliJ IDEA Community or IntelliJ IDEA
-Ultimate. If you're not sure which edition to install, start with IntelliJ IDEA Community. It is
+Ultimate. If you're not sure which edition to install, start with IntelliJ IDEA Community. It's 
 free, and it represents the most basic reference platform for the IntelliJ Platform SDK. IntelliJ
-IDEA Ultimate can do everything that IntelliJ IDEA Community can do, and them some, so it is easy to
+IDEA Ultimate can do everything that IntelliJ IDEA Community can do, and then some, so it is easy to
 upgrade later on. From now on, when our discussion applies equally well to either edition, we will
 drop the edition qualifier, and refer to the application as simply "IntelliJ IDEA".
 
